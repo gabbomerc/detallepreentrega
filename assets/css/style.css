@@ -33,7 +33,7 @@
     max-width: 445px;
 }
 .herodetail {
-    background-image: url('/assets/images/hero/backgrounddetalle.png');
+    background-image: url('../images/hero/backgrounddetalle.png');
 }
 
 #única {

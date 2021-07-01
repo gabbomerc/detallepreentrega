@@ -29,8 +29,15 @@
 /****************************************************** */
 /*******************  01. Default CSS ***************** */
 /****************************************************** */
+.titulo-content {
+    max-width: 445px;
+}
+.herodetail {
+    background-image: url('/assets/images/hero/backgrounddetalle.png');
+}
+
 #única {
-   background-image: linear-gradient(to left, #e14fad 0%, #f27b13 100%);
+ background-color: #f0f9ff;
 }
 
 .footer-dark {
@@ -408,7 +415,7 @@ box-shadow: 5px 5px 15px rgba(0, 0, 0 , 0.6) ;
 .container h2 {
     font-size: 32px;
      font-family: 'M PLUS Rounded 1c', sans-serif;
-     color: #E6D647;
+     color: #0E1155;
      font-weight: 800;
 }
 .container h5 {
@@ -779,7 +786,7 @@ a.theme-btn.style-four:hover {
 a.theme-btn.style-three,
 .theme-btn.style-four,
 a.theme-btn.style-four {
-    background-color: #0E1155;
+    background-color: #FFFFFF;
 }
 
 .bg-one {
@@ -1248,9 +1255,8 @@ a.theme-btn.style-three:before,
     bottom: 0;
 }
 
-.what-experct-content h2 {
-    color: #FFFFFF;
-}
+
+
 .what-experct-content h4 {
     font-size: 20px;
     line-height: 30px;
@@ -1258,7 +1264,7 @@ a.theme-btn.style-three:before,
 }
 
 .what-experct-content p {
-    color: #FFFFFF;
+    color: #222222;
     margin: 25px 0;
 }
 
